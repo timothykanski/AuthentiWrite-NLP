@@ -5,9 +5,9 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIWritingDetector", "AIWritingDetector.csproj", "{BDAD863B-04DA-4CD5-961F-6A62B2E48FF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthentiWrite.Service", "..\AuthentiWrite.Service\AuthentiWrite.Service.csproj", "{438814A3-B3D7-4056-AB42-B39F620829F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthentiWrite.Service", "..\AuthentiWrite.Service\AuthentiWrite.Service.csproj", "{438814A3-B3D7-4056-AB42-B39F620829F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthentiWrite.Web", "..\AuthentiWrite.Web\AuthentiWrite.Web.csproj", "{ED2034E9-1A78-40DD-B08E-B074E6782773}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthentiWrite.Web", "..\AuthentiWrite.Web\AuthentiWrite.Web.csproj", "{ED2034E9-1A78-40DD-B08E-B074E6782773}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
